@@ -25,6 +25,7 @@ body {
 .user-form input {
   width: 100%;
   display: block;
+  text-align: center;
   background-color: #749bc2;
   border: none;
   border-radius: 10px;
@@ -88,15 +89,22 @@ body {
   margin-left: 0.5rem;
 }
 
-.repos {
+.repo {
   text-decoration: none;
   color: #fff;
-  background-color: #212a72;
+  background-color: #2e6bcd;
   font-size: 0.7rem;
   padding: 0.25rem 0.5rem;
   margin-right: 0.5rem;
   margin-bottom: 0.5rem;
   display: inline-block;
+  border-radius: 5px;
+}
+
+.repo:hover {
+  background-color: red;
+  border: #222 solid;
+  font-size: large;
 }
 
 @media (max-width: 500px) {
