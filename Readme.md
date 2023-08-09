@@ -8,8 +8,6 @@ Search for GitHub users by their username.View detailed profiles of GitHub users
 See a user's top repositories based on stars and forks.
 Get insights into a user's GitHub activity and contributions.
 
-![Demo]()
-
 # Installation
 
 To run GitHub Profiles locally, follow these steps:
@@ -42,3 +40,7 @@ Acknowledgments
 If you have any questions or suggestions, you can reach out at the below address: </br>
 [Gmail](masihomer123@gmail.com) </br>
 [GitHub Profiles](OmerMasih)
+
+## Project Demonstration
+
+![Demo](./Assets/Demo.gif)
